@@ -39,4 +39,4 @@ Under the cross-project setting, you can directly extract the original version o
 ## model
 We provide all models when LOC is used as effort, including all models under two settings: cross-release and cross-project settings. You can directly unzip the compressed package in the model directory to obtain it.
 
-Due to space limitations when uploading, the module cannot be successfully uploaded as an effort model. We are looking for another cloud disk to save the model. If you have any needs, please contact me through the following email: 284425@whut.edu.cn
+Due to space limitations when uploading, the models cannot be successfully uploaded when module as effort. We are looking for another cloud disk to save the model. If you have any needs, please contact me through the following email: 284425@whut.edu.cn
